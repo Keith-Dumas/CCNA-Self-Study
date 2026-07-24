@@ -27,8 +27,15 @@ During this project, I:
 - Verified that all hardware was functioning correctly
 - Troubleshot issues during setup
 
+## PC Build
+
+I successfully built a gaming PC for my brother as a practical application of my hardware knowledge.
+
+![Finished PC Build](images/finished-pc-build.jpg)
+
 ## Reflection
 
 Building a computer helped me understand that hardware knowledge is not just theoretical. Understanding how components interact makes troubleshooting easier and is an important foundation for IT support.
 
 This experience increased my confidence in diagnosing hardware problems, upgrading systems, and supporting users with computer issues.
+
