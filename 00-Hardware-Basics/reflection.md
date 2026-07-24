@@ -31,7 +31,7 @@ During this project, I:
 
 I successfully built a gaming PC for my brother as a practical application of my hardware knowledge.
 
-![Finished PC Build](images/finished-pc-build.jpg)
+![Finished PC Build](image/IMG_E9383.HEIC)
 
 ## Reflection
 
